@@ -1,4 +1,4 @@
-# NSpeech Digit Recognition CNN 
+# Speech Digit Recognition CNN 
 
 This is a word classification model, trained on the Google Speech Commands dataset. This model uses a CNN to identify numbers spoken from zero to nine with a 99% F1-accuracy rate and 95.9% recognition rate. 
 
